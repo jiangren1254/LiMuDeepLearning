@@ -517,3 +517,4 @@ Temporary Items
 !.gitignore
 !.gitsubmodules
 d2l-zh/pytorch/data/
+datasets/
